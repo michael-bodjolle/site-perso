@@ -1,0 +1,43 @@
+body {
+    overflow-x: hidden;
+    background-color: rgb(70, 65, 65);
+}
+
+.jumbotron {
+    background-color: #0000002b;
+    color: white;
+
+}
+
+.display-4 {
+    color: goldenrod;
+
+
+}
+
+.ct {
+    color: white;
+    font-size: 3vh;
+}
+
+.cop {
+    color: white;
+}
+
+#name {
+
+    color: grey;
+    text-align: center;
+
+    text-shadow: black 0px 0px 3px;
+    font-size: 3rem;
+}
+
+.navbar{
+    background-color: #0000002b;
+   
+}
+
+html {
+    scroll-behavior: smooth;
+} 
