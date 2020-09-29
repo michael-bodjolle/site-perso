@@ -21,28 +21,7 @@
                 <a class="navbar-brand text-white" href="#contact">Contact</a>
             </nav>
         </div>
-        <!-- <nav  class="navbar fixed-top navbar-expand-lg navbar-lights">
-        
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-    </ul>
-  </div> -->
+
         </div>
         </nav>
     </header>
@@ -111,10 +90,10 @@
         </div>
         <div class="row">
             <div class="col">
-                <div id="carouselExampleControls "  class="carousel slide" data-ride="carousel">
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="images/screen1.PNG" class="d-block w-100"  alt="hs">
+                            <img src="images/screen1.PNG" class="d-block w-100" alt="hs">
                         </div>
                         <div class="carousel-item">
                             <img src="images/screen2.PNG" class="d-block w-100" alt="sc">
@@ -132,7 +111,9 @@
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
+          
             </div>
+        </div>
 
         </div>
         <!--        fin carou-->
